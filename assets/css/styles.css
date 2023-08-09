@@ -1,0 +1,18 @@
+* {
+    font-family: Helvetica, sans-serif
+
+}
+
+h1 {
+    text-align: center;
+    background-color: purple;
+    margin: 10px;
+    border: 10px;
+    width: 100%;
+    margin: 20px 0 20 0;
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif
+
+}
