@@ -1,18 +1,23 @@
 * {
-    font-family: Helvetica, sans-serif
-
+    font-family: Helvetica, sans-serif;
+    box-sizing: border-box;
 }
+
+body {
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
 
 h1 {
     text-align: center;
     background-color: purple;
-    margin: 10px;
-    border: 10px;
+    color: white;
     width: 100%;
     margin: 20px 0 20 0;
 }
 
 input {
-    font-family: Arial, Helvetica, sans-serif
-
+    font-family: Helvetica, sans-serif
 }
